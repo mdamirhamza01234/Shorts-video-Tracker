@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shorts Tracker</string>
+    <string name="service_description">Counts the Reels and Shorts you scroll in Instagram, YouTube and Facebook, and blocks them once your daily limit is reached. Nothing leaves your phone.</string>
+</resources>
